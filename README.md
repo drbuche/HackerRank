@@ -13,7 +13,9 @@ Repositorio para resoluções pessoais utilizando o HackerRank.O conteúdo esta 
 <br />
 <br />
 <br />
+
 ---
+
 # Index:
 
 1. **Python:**
