@@ -3,11 +3,14 @@
 
 # Resolução de desafios da HackerRank
 
-Repositorio para resoluções pessoais utilizando o HackerRank.O conteúdo esta em português e os códigos estão lotados de comentários, pois o intuito é que esse material sirva para novatos na área de programação, explicando detalhadamente o que foi feito em cada linha e a logica por trás do código.
+Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo está em português e os códigos estão lotados de comentários, pois o intuito é que esse material sirva para novatos na área de programação, explicando detalhadamente o que foi feito em cada linha e a logica por trás do código.
 
 **Tentarei postar diariamente! ^^**
+
 <br />
+
 ---
+
 #### Linguagens:
    - Python
 <br />
@@ -35,4 +38,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank.O conteúdo esta 
         - Lists-------------------------------------> [Problema](https://www.hackerrank.com/challenges/python-lists/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/02_Basic_Data_Types/004_Lists.py) | Score: 10
         - Tuples----------------------------------> [Problema](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/02_Basic_Data_Types/005_Tuples.py) | Score: 10
  
+    - **[Strings]()**
+        - sWAP cASE --------------------------> [Problema](https://www.hackerrank.com/challenges/swap-case/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/001_sWAP_cASE.py) | Score: 10
+        - What's Your Name?-----------------> [Problema](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/002_Whats_Your_Name%3F.py) | Score: 10
  ---
