@@ -41,4 +41,5 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     - **[Strings]()**
         - sWAP cASE --------------------------> [Problema](https://www.hackerrank.com/challenges/swap-case/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/001_sWAP_cASE.py) | Score: 10
         - What's Your Name?-----------------> [Problema](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/002_Whats_Your_Name%3F.py) | Score: 10
+        - Mutations-------------------------------> [Problema](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/003_Mutations.py) | Score: 10
  ---
