@@ -44,4 +44,6 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - Mutations-------------------------------> [Problema](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/003_Mutations.py) | Score: 10
         - Find a string----------------------------> [Problema](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/004_Find_a_string.py) | Score: 10
         - String Validators-----------------------> [Problema](https://www.hackerrank.com/challenges/string-validators/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/005_String_Validators.py) | Score: 10
+        - Text Alignment--------------------------> [Problema](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/006_Text_Alignment.py) | Score: 10
+        
  ---
