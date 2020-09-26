@@ -46,5 +46,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - String Validators-----------------------> [Problema](https://www.hackerrank.com/challenges/string-validators/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/005_String_Validators.py) | Score: 10
         - Text Alignment-------------------------> [Problema](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/006_Text_Alignment.py) | Score: 10
         - Text Wrap-------------------------------> [Problema](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/007_Text_Wrap.py) | Score: 10
-        
+    
+    - **[Sets]()**  
+        - Introduction to Sets ------------------> [Problema](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/001_Introduction_to_Sets.py) | Score: 10    
  ---
