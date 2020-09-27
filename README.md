@@ -48,5 +48,6 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - Text Wrap-------------------------------> [Problema](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/007_Text_Wrap.py) | Score: 10
     
     - **[Sets]()**  
-        - Introduction to Sets ------------------> [Problema](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/001_Introduction_to_Sets.py) | Score: 10    
+        - Introduction to Sets-------------------> [Problema](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/001_Introduction_to_Sets.py) | Score: 10
+        - Set.add()---------------------------------> [Problema](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/003_Set.add().py) | Score: 10    
  ---
