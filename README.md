@@ -51,4 +51,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - Introduction to Sets-------------------> [Problema](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/001_Introduction_to_Sets.py) | Score: 10
         - Set.add()---------------------------------> [Problema](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/003_Set.add().py) | Score: 10
         - Set .symmetric_difference() Operation->[Problema](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/004_Set_symmetric_difference_Operation.py) | Score: 10    
+           
+    - **[Math]()**  
+        - Mod Divmod----------------------------> [Problema](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math/001_Mod_Divmod.py) | Score: 10
  ---
