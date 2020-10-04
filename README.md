@@ -55,4 +55,9 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     - **[Math]()**  
         - Mod Divmod----------------------------> [Problema](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math/001_Mod_Divmod.py) | Score: 10
         - Integers Come In All Sizes----------> [Problema](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math/002_Integers_Come_In_All_Sizes.py) | Score: 10
+    
+    - **[Numpy]()** 
+        - Arrays------------------------------------->[Problema](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy/001_Arrays.py) | Score: 10
+        
+       
  ---
