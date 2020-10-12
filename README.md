@@ -38,7 +38,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - Lists-------------------------------------> [Problema](https://www.hackerrank.com/challenges/python-lists/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/02_Basic_Data_Types/004_Lists.py) | Score: 10
         - Tuples----------------------------------> [Problema](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/02_Basic_Data_Types/005_Tuples.py) | Score: 10
  
-    - **[Strings]()**
+    - **[Strings](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings)**
         - sWAP cASE --------------------------> [Problema](https://www.hackerrank.com/challenges/swap-case/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/001_sWAP_cASE.py) | Score: 10
         - What's Your Name?-----------------> [Problema](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/002_Whats_Your_Name%3F.py) | Score: 10
         - Mutations-------------------------------> [Problema](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/003_Mutations.py) | Score: 10
@@ -47,17 +47,19 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
         - Text Alignment-------------------------> [Problema](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/006_Text_Alignment.py) | Score: 10
         - Text Wrap-------------------------------> [Problema](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/03_Strings/007_Text_Wrap.py) | Score: 10
     
-    - **[Sets]()**  
+    - **[Sets](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets)**  
         - Introduction to Sets-------------------> [Problema](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/001_Introduction_to_Sets.py) | Score: 10
         - Set.add()---------------------------------> [Problema](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/003_Set.add().py) | Score: 10
         - Set .symmetric_difference() Operation->[Problema](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/004_Set_symmetric_difference_Operation.py) | Score: 10    
         - Set.union()_Operation---------------------->[Problema](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/04_Sets/005_Set.union()_Operation.py) | Score: 10
-    - **[Math]()**  
+    - **[Math](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math)**  
         - Mod Divmod----------------------------> [Problema](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math/001_Mod_Divmod.py) | Score: 10
         - Integers Come In All Sizes----------> [Problema](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/05_Math/002_Integers_Come_In_All_Sizes.py) | Score: 10
     
-    - **[Numpy]()** 
+    - **[Numpy](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy)** 
         - Arrays------------------------------------->[Problema](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy/001_Arrays.py) | Score: 10
-        
+    
+    - **[Python_Functionals](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals)** 
+        - Map and Lambda Function---------->[Problema](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals/001_Map_and_Lambda_Function.py) | Score: 20
        
  ---
