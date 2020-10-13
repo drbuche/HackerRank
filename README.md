@@ -61,5 +61,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     
     - **[Python_Functionals](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals)** 
         - Map and Lambda Function---------->[Problema](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals/001_Map_and_Lambda_Function.py) | Score: 20
-       
+    
+    - **[Itertools](https://github.com/drbuche/HackerRank/blob/master/Python/08_Itertools)**
+        - Itertools Product------------------------>[Problema](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/08_Itertools/001_Itertools_Product.py) | Score: 10
  ---
