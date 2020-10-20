@@ -64,4 +64,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     
     - **[Itertools](https://github.com/drbuche/HackerRank/blob/master/Python/08_Itertools)**
         - Itertools Product------------------------>[Problema](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/08_Itertools/001_Itertools_Product.py) | Score: 10
+    
+    - **[Data and Time](https://github.com/drbuche/HackerRank/blob/master/Python/09_Date_Time)**
+        - Calendar Module------------------------>[Problema](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/08_Date_Time/001_Calendar_Module.py) | Score: 10
  ---
