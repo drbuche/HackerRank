@@ -67,4 +67,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     
     - **[Data and Time](https://github.com/drbuche/HackerRank/blob/master/Python/09_Date_Time)**
         - Calendar Module------------------------>[Problema](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/09_Date_Time/001_Calendar_Module.py) | Score: 10
+        
+    - **[Collections](https://github.com/drbuche/HackerRank/blob/master/Python/10_Collections)**
+        - Collections.OrderedDict()------------->[Problema](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/09_Date_Time/001_Collections.OrderedDict().py) | Score: 20
  ---
