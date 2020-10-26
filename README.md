@@ -58,6 +58,7 @@ Repositorio para resoluções pessoais utilizando o HackerRank. O conteúdo est�
     
     - **[Numpy](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy)** 
         - Arrays------------------------------------->[Problema](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy/001_Arrays.py) | Score: 10
+        - Sum_and_Prod------------------------->[Problema](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/06_Numpy/002_Sum_and_Prod.py) | Score: 10
     
     - **[Python_Functionals](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals)** 
         - Map and Lambda Function---------->[Problema](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solução](https://github.com/drbuche/HackerRank/blob/master/Python/07_Python_Functionals/001_Map_and_Lambda_Function.py) | Score: 20
